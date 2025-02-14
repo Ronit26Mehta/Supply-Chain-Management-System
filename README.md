@@ -181,28 +181,3 @@ Please ensure your contributions adhere to the coding standards and include appr
 
 This project is licensed under the [MIT License](LICENSE). Please see the LICENSE file for details.
 
-## Contact
-
-For further information, questions, or support, please use the GitHub issues page or contact the project maintainer at [your.email@example.com].
-
----
-
-Happy Coding!
-
----
-
-*Note: This README is generated to provide an extensive overview of HackAurora’s structure and usage. For more detailed documentation, refer to the files and comments within each directory.*
-
----
-
-This README should be valid Markdown and comprehensive enough to guide new users and contributors through the project’s setup, usage, and structure.
-
----
-
-Be sure to update placeholder sections (such as the contact email) and adjust details as needed to suit your project’s evolution.
-
----
-
-By providing a clear description of every directory and file, this document helps maintain consistency and ease of use as HackAurora evolves.
-
----

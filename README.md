@@ -34,6 +34,31 @@ HackAurora brings together several cutting-edge technologies to create an end-to
 - **Comprehensive Testing:** Automated test suite for smart contracts and integration testing for application components.
 - **Developer Automation:** GitHub configuration for CI/CD, issue templates, and other workflow enhancements.
 
+## system architecture
+   1. system design :
+      
+  ![image](https://github.com/user-attachments/assets/c56f22dc-8bcc-4bc4-b67a-246289d41b96)
+
+2.components diagram:
+
+![image](https://github.com/user-attachments/assets/e8185788-8e99-43cf-b0b8-c841b3211cfa)
+
+3.  activity diagram :
+
+![image](https://github.com/user-attachments/assets/37424d7d-8507-4b6c-8e3c-c7a2d8e3e50d)
+
+4. deployement diagram:
+
+![image](https://github.com/user-attachments/assets/ef6c918f-1b32-43fd-83d1-aa1dbf66b7c7)
+
+5. sequence diagram:
+
+![image](https://github.com/user-attachments/assets/70c088c7-6bf6-40f6-93db-92380192526c)
+
+
+
+
+
 ## Directory Structure
 
 Below is an in-depth explanation of the project directories and key files:
